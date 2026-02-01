@@ -1,0 +1,5 @@
+python-dotenv
+atomagent
+websocket-client>=1.0.0
+typing-extensions
+requests

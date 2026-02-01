@@ -1,0 +1,4 @@
+# 轻量级 TTS 组件的最小依赖
+# 只需要 websocket-client，无需其他重量级依赖
+
+websocket-client>=1.0.0
